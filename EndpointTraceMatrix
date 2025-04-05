@@ -1,0 +1,23 @@
+
+---
+
+### **2. 23_EndpointTraceMatrix**  
+**Description:**  
+Tracks the performance and availability of a matrix of HTTP endpoints with historical logging.
+
+#### **README.md**
+```markdown
+# EndpointTraceMatrix - Batch API Status Logger
+
+EndpointTraceMatrix provides uptime, latency, and HTTP status logs for multiple APIs in real time.
+
+## Features
+- CLI output and JSON logging  
+- Latency tracking per URL  
+- Supports failover retries  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_EndpointTraceMatrix.git
+cd 23_EndpointTraceMatrix
+python monitor.py
