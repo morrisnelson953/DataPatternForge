@@ -1,0 +1,23 @@
+
+---
+
+### **3. 23_LogStreamFocus**  
+**Description:**  
+Filters and groups log entries based on frequency, timestamps, and keywords.
+
+#### **README.md**
+```markdown
+# LogStreamFocus - Log Filtering & Grouping Tool
+
+LogStreamFocus is designed to help you detect frequent log patterns, error surges, and anomalies in real-time or static logs.
+
+## Features
+- Repetition grouping  
+- Keyword trigger alerts  
+- Lightweight and fast  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_LogStreamFocus.git
+cd 23_LogStreamFocus
+python analyze.py logs/system.log
