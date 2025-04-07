@@ -1,0 +1,23 @@
+
+---
+
+### **4. 23_LivePlotDash**  
+**Description:**  
+A lightweight tool to plot incoming numerical values as a real-time, dynamic line graph.
+
+#### **README.md**
+```markdown
+# LivePlotDash - Realtime Data Visualization Tool
+
+LivePlotDash allows you to chart sensor streams, simulations, or performance metrics as they happen.
+
+## Features
+- Smooth line updates  
+- Adjustable interval  
+- Matplotlib backend  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_LivePlotDash.git
+cd 23_LivePlotDash
+python visualize.py
